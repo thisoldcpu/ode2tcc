@@ -1,2 +1,15 @@
-# ode2tcc
-Ode To The Coal Car - Railroad routing game with screensaver ambitions using real DEM terrain, cinematic lighting, RRT/RRT2 gameplay scope
+# Ode To The Coal Car (ode2tcc)
+
+Railroad routing game with screensaver ambitions. Real DEM terrain, cinematic lighting, RRT/RRT2 gameplay scope.
+
+Build and manage a rail network across real-world terrain derived from USGS DEM data. Route lines, manage traffic, and watch your layout come alive through cinematic lighting that shifts with the time of day. 
+
+A locomotive crossing a bridge at sunset isn't a cutscene. It's Tuesday on your railroad. When you step away, your current layout (or a preselected one) loads as a living screensaver: trains run, light changes, smoke drifts. No economy layer, no track damage, no physics panic. Just your railroad doing what railroads do.
+
+Gameplay scope is bounded by the original *Railroad Tycoon* and *Railroad Tycoon 2*. Those games knew when to stop, and so does this one.
+
+---
+<img width="1254" height="1254" alt="Ode To The Coal Car" src="https://github.com/user-attachments/assets/238c9962-a311-4b69-9d5f-ad283671c4f0" />
+---
+
+> *This repository is a pre-code placeholder. Architecture, assets, and implementation details will follow.*

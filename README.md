@@ -1,5 +1,4 @@
-<p align="center">
-  # Ode To The Coal Car (ode2tcc)
+# Ode To The Coal Car (ode2tcc)
 
 Railroad routing game with screensaver ambitions. Real DEM terrain, cinematic lighting, RRT/RRT2 gameplay scope.
 
@@ -14,6 +13,3 @@ Gameplay scope is bounded by the original *Railroad Tycoon* and *Railroad Tycoon
 
 [![Ode To The Coal Car Original Soundtrack](https://img.youtube.com/vi/9h4dVZWEDUw/hqdefault.jpg)](https://www.youtube.com/watch?v=9h4dVZWEDUw)
 ---
-
-> *This repository is a pre-code placeholder. Architecture, assets, and implementation details will follow.*
-</p>

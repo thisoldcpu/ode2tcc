@@ -10,6 +10,9 @@ Gameplay scope is bounded by the original *Railroad Tycoon* and *Railroad Tycoon
 
 ---
 <img width="1254" height="1254" alt="Ode To The Coal Car" src="https://github.com/user-attachments/assets/238c9962-a311-4b69-9d5f-ad283671c4f0" />
+---
 
 [![Ode To The Coal Car Original Soundtrack](https://img.youtube.com/vi/9h4dVZWEDUw/hqdefault.jpg)](https://www.youtube.com/watch?v=9h4dVZWEDUw)
+
 ---
+Full Soundtrack Release Date: 11/8/2026
